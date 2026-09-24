@@ -11,7 +11,7 @@ description: >-
 
 **新建文档默认权限：** 创建成功后立刻设为「互联网上获得链接的人可阅读」（`external_access=true` + `link_share_entity=anyone_readable`）。
 
-结构和密度对照 [exemplar.md](exemplar.md) 与 [参考 PRD](../../examples/reference-prd.md)。
+结构和密度对照同目录的 `exemplar.md`，以及仓库根目录的 `examples/reference-prd.md`。
 
 ## 何时用
 

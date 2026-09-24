@@ -10,7 +10,7 @@ description: >-
 
 对一篇已经写好的飞书 PRD 做独立评审。评审结论只来自文档正文、表格和截图，不来自写作过程里的对话。
 
-先读本 skill，再读 [rubric.md](rubric.md)。需要改文档时才读 [撰写 skill](../feishu-prd/SKILL.md)。评审本身不改文档。结构对照 [参考 PRD](../../examples/reference-prd.md)，不要把范例里的业务对象写进所评文档。
+先读本 skill，再读同目录的 `rubric.md`。需要改文档时才读撰写 skill `feishu-prd`。评审本身不改文档。结构对照仓库根目录的 `examples/reference-prd.md`，不要把范例里的业务对象写进所评文档。
 
 ## 何时用
 

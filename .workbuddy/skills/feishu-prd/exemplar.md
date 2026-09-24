@@ -1,6 +1,6 @@
 # PRD 范本
 
-写新的飞书 PRD 时，结构和密度对照仓库里的 [参考 PRD](../../examples/reference-prd.md)。不要复制它的业务对象。
+写新的飞书 PRD 时，结构和密度对照仓库根目录的 `examples/reference-prd.md`。不要复制它的业务对象。
 
 ## 章节
 
